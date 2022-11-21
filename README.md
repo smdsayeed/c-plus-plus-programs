@@ -1,2 +1,2 @@
 # c-plus-plus-programs
-all of my learnings regarding c++
+All of my learnings regarding c++
